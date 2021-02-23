@@ -10,5 +10,5 @@ package com.infoking.mavenproject1;
  * @author KJanos
  */
 public class testJava1 {
-    
+    private String a;
 }
