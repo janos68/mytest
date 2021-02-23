@@ -11,5 +11,6 @@ package com.infoking.mavenproject2;
  */
 public class testjava11 {
     private int i;
+    private int j;
     
 }
